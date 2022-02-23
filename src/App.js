@@ -6,6 +6,8 @@ function App() {
   return (
     <div className = 'listStyle'>
       <ShowsList name='Shows to Watch' />
+      <ShowsList name='Other Shows to Watch' />
+
     </div>
   );
 }
